@@ -18,7 +18,7 @@
 - 향수나 향을 검색해 볼 수 있고 맘에 드는 향수는 장바구니에 넣거나 즐겨찾기 등을 할 수 있다.
 
 ## 포스터
-
+(https://github.com/Meang27/-_EDU-UNIT/blob/main/%EC%BA%A1%EC%8A%A4%ED%86%A4%20%ED%8F%AC%EC%8A%A4%ED%84%B0.pdf)
 
 ## 참고이미지
 ![]()
