@@ -22,3 +22,4 @@
 
 ## 참고이미지
 ![](https://github.com/Meang27/-_EDU-UNIT/blob/main/Scene_1.JPG)
+![](https://github.com/Meang27/-_EDU-UNIT/blob/main/Scene_2.JPG)
