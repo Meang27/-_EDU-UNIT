@@ -21,4 +21,4 @@
 (https://github.com/Meang27/-_EDU-UNIT/blob/main/%EC%BA%A1%EC%8A%A4%ED%86%A4%20%ED%8F%AC%EC%8A%A4%ED%84%B0.pdf)
 
 ## 참고이미지
-![]()
+![](https://github.com/Meang27/-_EDU-UNIT/blob/main/Scene_1.JPG)
